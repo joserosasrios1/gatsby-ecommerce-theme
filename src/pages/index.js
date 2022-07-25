@@ -33,7 +33,7 @@ const IndexPage = () => {
         joserosasrios1-patch-1
 
         title={'¡Descubre nuestra ropa excesivamente cara!'}
-        subtitle={'¡Aprovecha las promos que no son promos pero tienen el % para que la gente se lo crea!'}
+        subtitle={'¡Aprovecha las promos que no son promos pero tienen el % para que la gente se lo creaa!'}
         main
         ctaText={'shop now'}
         ctaAction={goToShop}
