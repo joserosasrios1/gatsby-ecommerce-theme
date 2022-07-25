@@ -30,8 +30,11 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'sale  XD'}
-        subtitle={'Discover Autumn Winter 2021'}
+        joserosasrios1-patch-1
+
+        title={'¡Descubre nuestra ropa excesivamente cara!'}
+        subtitle={'¡Aprovecha las promos que no son promos pero tienen el % para que la gente se lo crea!'}
+        main
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
